@@ -6,9 +6,9 @@ Here, in this project, I have scraped the MAKAUT University's result [website](h
 
 ## Features
 
-- [x] Downloads the result pdf of the students within the specified roll number range and compresses them into a `rar` file.
+- [x] Downloads the result pdf of the students within the specified roll number range.
 
-* The pdf within the rar file will also contain the name along with the roll number for easy detection on the necessary result.
+-[ ] Create a zip file containing the pdf. Also the pdf filename will contain the students name along with the roll number for easy detection on the necessary result.
 
 - [ ] Individual result pdf (comming soon)
 
