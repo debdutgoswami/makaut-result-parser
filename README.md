@@ -30,4 +30,11 @@ Here, in this project, I have scraped the MAKAUT University's result [website](h
 
 ## Libraries Used
 
-1. 
+1. BeautifulSoup
+2. Requests
+
+---
+
+## UPDATE
+
+I have implemented the scrapper into a website, which take the necessary parameters and returns the zip file containing all the results as pdf.
